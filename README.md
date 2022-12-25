@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Henrique.
 
-- 🔭 No momento estou trabalhando na Agencia GV8
+- 🔭 No momento estou trabalhando na Special Dog
 - 🌱 Atualmente estou aprendendo Analise e Desenvolvimento de Sistemas
 - 💬 Pergunte-me sobre suas dúvidas
 - 📫 Como chegar até mim: matheushme015@gmail.com
