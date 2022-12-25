@@ -1,8 +1,7 @@
-## Olá! Eu sou o Matheus Henrique.
+## Hello Devs! Welcome to my profile.  <a href="https://github.com/MatheusHMEstevam" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" style="border-radius: 10px; border: 2px solid #fff"></a>
 
-- 🔭 No momento estou trabalhando na Special Dog
+- 🔭 No momento estou trabalhando na Special Dog - TI
 - 🌱 Atualmente estou aprendendo Analise e Desenvolvimento de Sistemas
-- 💬 Pergunte-me sobre suas dúvidas
 - 📫 Como chegar até mim: matheushme015@gmail.com
 - ⚡ Fato engraçado: Sou sonolento
 
