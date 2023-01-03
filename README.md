@@ -21,14 +21,21 @@
   <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
-
-<br><br>
+ 
 
  <h1 align="center">My Social Networks</h1>
-  <a href="https://www.instagram.com/matheushme/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
-  <a href = "mailto:matheushme015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/matheushme/" target="_blank">
+   <img width="25" src="instagram.png">
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+   <img width="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
+  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVWHBVTnLwQgsjXffqJbhMGlJQnWpGBKzrkDkMRJjhWnswTsPmKKpZKDQHkQhVnWhtxVzm">
+   <img width="30" src="gmail.svg">
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+   <img width="25" src="linkedin.svg">
+  </a> 
 </div>
 
 ![Snake animation](https://github.com/MatheusHMEstevam/MatheusHMEstevam/blob/output/github-contribution-grid-snake.svg)
