@@ -5,10 +5,6 @@
 - 📫 How to reach me: matheushme015@gmail.com
 - ⚡ Fun fact: I'm always sleepy
 
-
-
-  ![MatheusHMEstevam GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHMEstevam&show_icons=true&theme=gruvbox)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHMEstevam&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/MatheusHMEstevam/github-readme-stats)
 <br><br>
 
  ## Technologies I use on a daily basis
