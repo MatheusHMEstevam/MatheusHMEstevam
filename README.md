@@ -4,14 +4,14 @@
 
 <div>
 <h1 align="center">My Statistics</h1><br>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusHMEstevam&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=MatheusHMEstevam&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true" />
 <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHMEstevam&layout=compact&langs_count=16&theme=gruvbox_light" />
 </div>
 
 <br><br>
 
 <div align="center">
- <div style="display: inline_block"><br>
+ <div><br>
   <img align="left" height="250" alt="coding-time" src="code.gif">
   <h1>Technologies Used</h1>
   <img align="center" alt="react-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
