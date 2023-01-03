@@ -28,7 +28,7 @@
    <img width="25" src="instagram.png">
   </a>
   <a href="https://discord.gg/" target="_blank">
-   <img width="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+   <img width="25" src="discord.png">
   </a> 
   <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVWHBVTnLwQgsjXffqJbhMGlJQnWpGBKzrkDkMRJjhWnswTsPmKKpZKDQHkQhVnWhtxVzm">
    <img width="30" src="gmail.svg">
