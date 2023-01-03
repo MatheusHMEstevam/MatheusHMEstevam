@@ -4,7 +4,7 @@
 
 <div>
 <h1 align="center">My Statistics</h1><br>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=MatheusHMEstevam&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusHMEstevam&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true" />
 <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHMEstevam&layout=compact&langs_count=16&theme=gruvbox_light" />
 </div>
 
