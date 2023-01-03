@@ -1,10 +1,5 @@
 ## HELLO, DEVS! WELCOME TO MY <a href="https://github.com/MatheusHMEstevam" target="_blank"><img src="https://img.shields.io/badge/MatheusHMEstevam-100000?logo=github&logoColor=white" target="_blank" style="border-radius: 10px; border: 2px solid #fff; width: 200px;"></a>
 
-- 🔭 At the moment I'm working at Special Dog - TI
-- 🌱 I am currently learning Systems Analysis and Development
-- 📫 How to reach me: matheushme015@gmail.com
-- ⚡ Fun fact: I'm always sleepy
-
 <br><br>
 
 <div>
@@ -17,6 +12,7 @@
 
 <div align="center">
  <div style="display: inline_block"><br>
+  <img align="left" height="250" alt="coding-time" src="code.gif">
   <h1>Technologies I use on a daily basis</h1>
   <img align="center" alt="react-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,6 +30,5 @@
   <a href = "mailto:matheushme015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 
 ![Snake animation](https://github.com/MatheusHMEstevam/MatheusHMEstevam/blob/output/github-contribution-grid-snake.svg)
